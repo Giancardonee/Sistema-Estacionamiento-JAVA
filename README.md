@@ -12,7 +12,6 @@ Controlar el ingreso y salida de vehículos: Registrar la entrada y salida de ve
 Implementación de la generación automática de tickets.  
 Mejoras en cuanto al manejo de posibles errores.  
 Adaptabilidad para distintas resoluciones de pantallas. (Actualmente disponible solo en 1200 x 800)  
-Adaptabilidad para nombre de estacionamiento.  
 Adaptabilidad para fecha,hora y localidad de donde se inicie. 
 
 ## Que estoy usando para desarrollar este proyecto? 
