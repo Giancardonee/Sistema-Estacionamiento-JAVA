@@ -1,4 +1,5 @@
-## Sistema de Estacionamiento.   (en desarrollo)
+## Sistema de Estacionamiento. (en desarrollo)
+
 Bienvenido/a a mi primer proyecto, un sistemade estacionamiento desarrollado en Java.
 
 **💻💥 Este proyecto te permitirá:** 
@@ -10,8 +11,9 @@ Controlar el ingreso y salida de vehículos: Registrar la entrada y salida de ve
 **🔨Próximamente:**  
 Implementación de la generación automática de tickets.  
 Mejoras en cuanto al manejo de posibles errores.  
-Adaptabilidad a distintas resoluciones de pantallas. (Actualmente disponible solo en 1200 x 800)
-
+Adaptabilidad para distintas resoluciones de pantallas. (Actualmente disponible solo en 1200 x 800)  
+Adaptabilidad para nombre de estacionamiento.  
+Adaptabilidad para fecha,hora y localidad de donde se inicie. 
 
 ## Que usé para desarrollar este proyecto? 
 
@@ -28,3 +30,13 @@ Base de datos SQL
 ✔️Cálculo de tarifas  
 ✔️Generación de tickets (próximamente)  
 ✔️Listado de información relevante  
+
+## Les presento a Estacionamiento Gianca
+**Inicio de Sesion**  
+![pantalla1  Login ](https://github.com/Giancardonee/BETA-Sistema-Estacionamiento-JAVA/assets/114377978/73b07d86-449b-4ca3-8288-252c0636dc41)  
+**Menu Principal** 
+
+   
+![pantalla2  Menu](https://github.com/Giancardonee/BETA-Sistema-Estacionamiento-JAVA/assets/114377978/6e49aefb-5d26-4693-a758-549fe5e0d555)
+
+
