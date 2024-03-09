@@ -16,7 +16,7 @@ Adaptabilidad para fecha,hora y localidad de donde se inicie.
 
 ## Que estoy usando para desarrollar este proyecto? 
 
-Java  
+Java POO
 Swing (Interfaz gráfica de usuario)  
 JDBC (Persistencia de datos)  
 Base de datos SQL  
@@ -42,7 +42,7 @@ Base de datos SQL
    
 ## Como correr el proyecto? 
 🟣 Ejecutar el Script -> **ScriptBD**. En mi caso lo hago en PhpMyAdmin para administrar una base de datos MySQL.  
-🟣 **IMPORTANTE:** Añadir la libreria mysql-connector-j-8.2.0 (Se encuentra en formato .zip)  
+🟣 **IMPORTANTE:** Añadir la libreria mysql-connector-j-8.2.0. Ya que sino no se conectaria a la BD.  
 🟣 Iniciar sesion con las credenciales de:  
     ✅Usuario: adm  
     ✅Contraseña: 1234  
