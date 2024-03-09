@@ -42,6 +42,7 @@ Base de datos SQL
    
 ## Como correr el proyecto? 
 🟣 Ejecutar el Script -> **ScriptBD**. En mi caso lo hago en PhpMyAdmin para administrar una base de datos MySQL.  
+🟣 **IMPORTANTE:** Añadir la libreria MySql Conector  
 🟣 Iniciar sesion con las credenciales de:  
     ✅Usuario: adm  
     ✅Contraseña: 1234  
