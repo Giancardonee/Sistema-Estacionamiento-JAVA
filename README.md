@@ -15,7 +15,7 @@ Adaptabilidad para distintas resoluciones de pantallas. (Actualmente disponible 
 Adaptabilidad para nombre de estacionamiento.  
 Adaptabilidad para fecha,hora y localidad de donde se inicie. 
 
-## Que usé para desarrollar este proyecto? 
+## Que estoy usando para desarrollar este proyecto? 
 
 Java  
 Swing (Interfaz gráfica de usuario)  
