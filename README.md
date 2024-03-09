@@ -17,7 +17,7 @@ Adaptabilidad para fecha,hora y localidad de donde se inicie.
 ## Que estoy usando para desarrollar este proyecto? 
 
 Java  
-POO  
+POO (Programación Orientada a Objetos)  
 Swing (Interfaz gráfica de usuario)  
 JDBC (Persistencia de datos)  
 Base de datos SQL  
