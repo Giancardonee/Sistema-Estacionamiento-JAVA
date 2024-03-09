@@ -32,11 +32,21 @@ Base de datos SQL
 ✔️Listado de información relevante  
 
 ## Les presento a Estacionamiento Gianca
-**Inicio de Sesion**  
+## Inicio de Sesion   
 ![pantalla1  Login ](https://github.com/Giancardonee/BETA-Sistema-Estacionamiento-JAVA/assets/114377978/73b07d86-449b-4ca3-8288-252c0636dc41)  
-**Menu Principal** 
+## Menu Principal  
+
+  
+![a](https://github.com/Giancardonee/BETA-Sistema-Estacionamiento-JAVA/assets/114377978/2ace3d96-1ee2-447f-aabf-0d093051213c)
+
 
    
+## Como correr el proyecto? 
+🟣 Ejecutar el Script -> **ScriptBD**. En mi caso lo hago en PhpMyAdmin para administrar una base de datos MySQL.  
+🟣 Iniciar sesion con las credenciales de:  
+    ✅Usuario: adm  
+    ✅Contraseña: 1234  
+**(Obviamente este usuario sirve para acceder la primera vez al sistema, se deben crear otros usaurios en el apartado de Configuracion)**
 
 
 
