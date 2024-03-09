@@ -37,6 +37,6 @@ Base de datos SQL
 **Menu Principal** 
 
    
-![pantalla2  Menu](https://github.com/Giancardonee/BETA-Sistema-Estacionamiento-JAVA/assets/114377978/6e49aefb-5d26-4693-a758-549fe5e0d555)
+
 
 
