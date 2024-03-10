@@ -47,7 +47,7 @@ Base de datos SQL
 🟣 Iniciar sesion con las credenciales de:  
     ✅Usuario: adm  
     ✅Contraseña: 1234  
-**(Obviamente este usuario sirve para acceder la primera vez al sistema, se deben crear otros usaurios en el apartado de Configuracion)**
+**(Obviamente este usuario sirve para acceder la primera vez al sistema, se deben crear otros usuarios en el apartado de Configuracion)**
 
 
 
