@@ -2,7 +2,7 @@
 
 Bienvenido/a a mi primer proyecto, un sistema de estacionamiento desarrollado en Java.
 
-**💻💥 Este proyecto te permitirá:** 
+**💻💥 Este proyecto permite:** 
   
 Administrar clientes y sus vehículos: Registrar, actualizar, eliminar y visualizar información de clientes y sus vehículos.  
 Gestionar usuarios con diferentes roles: Administrador y Empleado, cada uno con sus permisos específicos.  
