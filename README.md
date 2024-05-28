@@ -1,6 +1,6 @@
 ## Sistema de Estacionamiento. (en desarrollo)
 
-Bienvenido/a a mi primer proyecto, un sistemade estacionamiento desarrollado en Java.
+Bienvenido/a a mi primer proyecto, un sistema de estacionamiento desarrollado en Java.
 
 **💻💥 Este proyecto te permitirá:** 
   
